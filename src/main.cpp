@@ -1,11 +1,5 @@
 #include "User.h"
 
-//TO BUILD:
-//travel to build dir and run:
-//cmake -G Ninja -DCMAKE_TOOLCHAIN_FILE="C:/Users/maxxk/OneDrive/vcpkg/scripts/buildsystems/vcpkg.cmake" -DCMAKE_VERBOSE_MAKEFILE:BOOL=ON ..
-//ninja
-//then just run TradeLog.exe in cmd
-
 int main()
 {   
     int userInp = 0;
