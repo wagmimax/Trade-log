@@ -1,0 +1,4 @@
+Balance: 50000
+Leverage: 50
+Risk: 2
+Fees: 0.01

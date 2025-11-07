@@ -1,0 +1,15 @@
+# Windows / build artifacts
+*.exe
+*.obj
+*.o
+*.pdb
+/build/
+
+# IDE / editor files
+.vscode/
+*.suo
+*.user
+*.DS_Store
+
+# Other
+*.log

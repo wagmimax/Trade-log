@@ -1,0 +1,11 @@
+# ninja log v6
+15	2982	7441614181933542	CMakeFiles/TradeLog.dir/src/main.cpp.obj	5c1437ed41528f58
+2983	3282	7441614211611221	TradeLog.exe	85c9ad131cdec62a
+17	4327	7440957564710167	CMakeFiles/TradeLog.dir/src/UserIMP.cpp.obj	299e8a3f710cf22c
+6	169	7512427071435149	build.ninja	85c419d2cbac9198
+37	5608	7512427110255164	CMakeFiles/TradeLog.dir/src/main.cpp.obj	7784f1a4e40d3965
+41	6733	7512427110284715	CMakeFiles/TradeLog.dir/src/UserIMP.cpp.obj	b2c0aef176c7f5d4
+6734	9737	7512427177212935	TradeLog.exe	bd34547da5bc774
+14	2561	7512427802620946	CMakeFiles/TradeLog.dir/src/main.cpp.obj	7784f1a4e40d3965
+18	3708	7512427802660647	CMakeFiles/TradeLog.dir/src/UserIMP.cpp.obj	b2c0aef176c7f5d4
+3710	4960	7512427839586138	TradeLog.exe	bd34547da5bc774
