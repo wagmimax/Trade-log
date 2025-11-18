@@ -1,3 +1,0 @@
-C:/Users/maxxk/OneDrive/Desktop/TradeLog/build/CMakeFiles/TradeLog.dir
-C:/Users/maxxk/OneDrive/Desktop/TradeLog/build/CMakeFiles/edit_cache.dir
-C:/Users/maxxk/OneDrive/Desktop/TradeLog/build/CMakeFiles/rebuild_cache.dir
